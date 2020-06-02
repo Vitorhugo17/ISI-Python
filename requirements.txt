@@ -1,5 +1,4 @@
 pandas
 numpy
-warnings
 flask
 json
